@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Science Made Easy</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        
+        <div class="jumbotron text-center">
+  <h1>Science Made Easy</h1>
+ 
+</div>
+        
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2">
+        <button type="button" class="btn btn-primary"><a href="home.html">Standard 6</a></button>
+    </div>
+    <div class="col-sm-2">
+      <button type="button" class="btn btn-primary">Standard 7</button>
+    </div>
+    <div class="col-sm-2">
+      <button type="button" class="btn btn-primary">Standard 8</button>
+    </div>
+    <div class="col-sm-2">
+      <button type="button" class="btn btn-primary">Standard 9</button>
+    </div>
+      <div class="col-sm-2">
+      <button type="button" class="btn btn-primary">Standard 10</button>
+    </div>
+  </div>
+</div>
+         <div class="jumbotron text-center">
+  <h2>Created by Eswaran K</h2>
+ 
+</div>
+    </body>
+</html>
+<!--
+
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[     CODE THE WEB     ]:::::]
+    [:::::[  http://brackets.io  ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+
+-->
