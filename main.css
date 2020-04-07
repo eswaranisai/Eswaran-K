@@ -1,0 +1,114 @@
+html {
+   
+}
+
+body {
+    margin:0;
+}
+.jumbotron{
+    background: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-weight: 600;
+    line-height: 1.3;
+}
+.btn-primary.btn{
+    margin-left: 57%;
+    padding: 18px 22px;
+    font-size: 24px;
+}
+.btn-primary.btn a{
+    color:#FFF;
+}
+
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+   
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+.image-container img{
+    margin-bottom:20px;
+}
+img {
+    
+}
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    
+    background-image: url("C:\Users\ELCOT\Desktop\New folder\backgroud.jpg");
+}
+
+.health-title{
+    text-align: center;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 63%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    color: black;
+    font-weight: bold;
+}
+.panel-group{
+    text-align:left;
+}
+
+@keyframes colorize {
+    0% {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+    }
+}
+
+.container-top{
+    padding:20px;
+}
+@media (min-width:320px) {
+.container-top{
+    padding:30px;
+}
+h1{
+   
+}
+li{
+    font-size:45px;
+}
+.centered{
+    top:180%
+}
+}
+@media (min-width:992px) {
+.container-top{
+    padding:20px;
+}
+h1{
+     
+}
+li{
+    font-size:14px;
+}
+.centered{
+    top:63%
+}
+}
